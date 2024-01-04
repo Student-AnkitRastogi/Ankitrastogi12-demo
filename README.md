@@ -1,3 +1,3 @@
-# GLBITM12-demo
+# Array-demo
 This is my 1st Git Repository.
 Author - Ankit Rastogi
